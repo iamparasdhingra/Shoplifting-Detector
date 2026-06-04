@@ -4,6 +4,6 @@ AI model is taken from kaggle, just search Shoplifting on kaggle and you will fi
 Just install all the required modules and it sounds harder to you than just use a vibe coder,(like Antigravity).It will remove all error and automatically and run the code.
 Also don't forgot to change the telegram bot keys.
 This is a fully Vibe coded Project😎.
-also there's a demo video clip to check if the program is running correctly or not.
+Download any shoplifting video from youtube to check if this Project is running correctly on your device or not.
 
 CREDITS @parasdhiingra give a follow up on instagram.
