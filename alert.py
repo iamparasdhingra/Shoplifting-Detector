@@ -17,8 +17,8 @@ class AlertSystem:
         self.guard_email = "guard@example.com"
 
         # Telegram bot configuration (hardcoded for manual setup)
-        self.telegram_bot_token = "8621068247:AAFesEAioe6dSYZVJ9b0SoetIYwvKdNbR5I"
-        self.telegram_chat_id = "6651548880"
+        self.telegram_bot_token = "enter_your_bot_token_here"
+        self.telegram_chat_id = "enter_your_chat_id_here"
         print(f"DEBUG: TELEGRAM_BOT_TOKEN='{self.telegram_bot_token}', TELEGRAM_CHAT_ID='{self.telegram_chat_id}'")  # Debug line
 
     def trigger(self, event, frame_buffer=None):
