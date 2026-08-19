@@ -6,4 +6,4 @@ Also don't forgot to change the telegram bot keys.
 This is a fully Vibe coded Project😎.
 Download any shoplifting video from youtube to check if this Project is running correctly on your device or not.
 
-CREDITS @parasdhiingra give a follow up on instagram.
+CREDITS @parasdhiingra and @lavish_setia give a follow up on instagram.
