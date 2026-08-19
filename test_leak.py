@@ -1,2 +1,2 @@
 # Oops, I'm committing my access key!
-my_aws_key = "AKIA1234567890ESDFGHJKQWERTYUI"
+my_aws_key = "AKIA1234ASD567890ESDFGHJKQWERTYUI"
