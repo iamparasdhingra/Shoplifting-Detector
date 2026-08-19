@@ -1,2 +1,3 @@
-# Oops, I'm committing my access key!
-my_aws_key = "AKIA1234ASD567890ESDFGHJKQWERTYUI"
+# test_leak.py
+aws_key = "AKIAIOSFODNN7EXAMPLE"
+aws_secret = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
